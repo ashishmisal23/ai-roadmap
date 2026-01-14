@@ -20,3 +20,29 @@ You can help by:
    ```sh
    git checkout -b feature/your-change
    ```
+3. Make your changes
+4. Commit with a clear message
+   ```sh
+   git commit -m "Add NLP resources"
+   ```
+5. Push to your fork
+   ```sh
+   git push origin feature/your-change
+   ```
+6. Open a Pull Request
+
+---
+
+## Rules to Follow
+
+- Keep language simple and beginner-friendly
+- Prefer free resources
+- Avoid duplicate content
+- Mention if a resource is advanced
+- Do not remove existing content without a reason
+
+## Code of Conduct
+Please follow the Code of Conduct
+Respect everyone. Learning should be welcoming for all.
+
+Thanks for helping make this roadmap better 🚀
