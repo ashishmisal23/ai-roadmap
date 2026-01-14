@@ -284,5 +284,3 @@ If you want to go deeper, check the official docs:
 
 This list is enough to **start learning AI/ML and build real projects**.
 Install what you need, practice regularly, and learn by building 🚀
-
-```
