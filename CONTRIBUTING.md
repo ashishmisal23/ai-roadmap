@@ -42,7 +42,7 @@ You can help by:
 - Do not remove existing content without a reason
 
 ## Code of Conduct
-Please follow the [Code of Conduct](#/CODE_OF_CONDUCT.md)
+Please follow the [Code of Conduct](#./CODE_OF_CONDUCT.md)
 Respect everyone. Learning should be welcoming for all.
 
 Thanks for helping make this roadmap better 🚀
